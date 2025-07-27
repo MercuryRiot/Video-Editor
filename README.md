@@ -1,3 +1,5 @@
+This worked with convert.exe (which is now discontinued) and was later updated to work with magick.exe as part of a seperate project to make use of its full capabilities.
+
 Here's a breakdown of what the script does:
 
 1. Import necessary libraries:
